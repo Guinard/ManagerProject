@@ -1,0 +1,4 @@
+Download=D:\
+Série=D:\Telechargements\Vidéo\Série
+Bin=D:\$RECYCLE.BIN
+system=D:\System Volume Information
